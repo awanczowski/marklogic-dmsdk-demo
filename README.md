@@ -17,7 +17,6 @@ endpoint. This is then passed to the DMSDK WriteBatcher to store the contents.
 
 ## Loading SQL Data
 A H2 Database is pre-configured in this Java application. A Spring JPA template is used to query the H2 DB. 
-This is then passed to the DMSDK WriteBatcher to store the contents. 
-
-                                                            
-                                                            You can use the Data Movement SDK out-of-the-box to insert, extract, delete, and transform documents in MarkLogic. You can also easily extend the framework to perform other operations.
+This is then passed to the DMSDK WriteBatcher to store the contents. You can use the Data Movement SDK
+out-of-the-box to insert, extract, delete, and transform documents in MarkLogic. You can also easily extend
+the framework to perform other operations.
